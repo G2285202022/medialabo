@@ -1,21 +1,21 @@
 p {
-	color: navy;
+	color: rgb(76, 204, 219);
    }
    
    p.info {
 	font-size: small;
-	background-color: #dfdfdf;
+	background-color: #3fa6af;
    }
    
    h1 {
-	background-color:white;
-	text-shadow: navy 0px 0 10px;
-	color: white;
+	background-color:rgb(161, 211, 213);
+	text-shadow: rgb(143, 194, 188) 0px 0 10px;
+	color: rgb(0, 0, 0);
    }
    
    h2 {
-	color: #3f3faf;
+	color: #3fa2af;
 	margin: 5px;
 	font-family: cursive;
-	background: linear-gradient(0.25turn,white, #ffefaf);
+	background: linear-gradient(0.25turn,rgb(213, 226, 224), #affaff);
    }
