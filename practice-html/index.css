@@ -1,5 +1,21 @@
-h1 {
+p {
+	color: navy;
+   }
+   
+   p.info {
+	font-size: small;
+	background-color: #dfdfdf;
+   }
+   
+   h1 {
 	background-color:white;
 	text-shadow: navy 0px 0 10px;
 	color: white;
-}
+   }
+   
+   h2 {
+	color: #3f3faf;
+	margin: 5px;
+	font-family: cursive;
+	background: linear-gradient(0.25turn,white, #ffefaf);
+   }
